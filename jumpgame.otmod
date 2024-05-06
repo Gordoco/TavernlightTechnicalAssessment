@@ -1,0 +1,8 @@
+Module
+  name: client_jumpgame
+  description: Creates the jumpgame for Question 7
+  author: Cody
+  scripts: [ jumpgame ]
+  sandboxed: true
+  @onLoad: init()
+  @onUnload: terminate()
