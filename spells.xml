@@ -1,0 +1,8 @@
+
+<!-- Question 5 Spell Definition (Cheap Placeholder Costs Used for Testing) -->
+<instant group="attack" name="Icy Tornado Storm" words="frigo" level="1" mana="1" soul="0" premium="0" aggressive="0" selftarget="0" cooldown="2000" groupcooldown="2000" needlearn="0" script="conjuring/ice_tornado_storm.lua">
+    <vocation name="Sorcerer" />
+    <vocation name="Druid" />
+    <vocation name="Master Sorcerer" />
+    <vocation name="Elder Druid" />
+</instant>
